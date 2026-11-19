@@ -92,12 +92,12 @@ An intelligent educational platform designed to support effective learning throu
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img style="height: 250px;" src="https://github-readme-stats.vercel.app/api?username=AngeloNorelli&show_icons=true&theme=radical&bg_color=000000&hide_border=true" />
-  <img style="height: 250px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngeloNorelli&layout=compact&theme=radical&bg_color=000000&hide_border=true" />
+  <img style="height: 150px;" src="https://github-readme-stats.vercel.app/api?username=AngeloNorelli&show_icons=true&theme=radical&bg_color=000000&hide_border=true" />
+  <img style="height: 150px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngeloNorelli&layout=compact&theme=radical&bg_color=000000&hide_border=true" />
 </p>
 
 <p align="center">
-  <img style="height: 300px;" src="https://github-readme-streak-stats.herokuapp.com/?user=AngeloNorelli&theme=radical&background=000000&hide_border=true" />
+  <img style="height: 150px;" src="https://github-readme-streak-stats.herokuapp.com/?user=AngeloNorelli&theme=radical&background=000000&hide_border=true" />
 </p>
 
 ---
